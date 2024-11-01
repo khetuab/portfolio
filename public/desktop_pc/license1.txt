@@ -1,0 +1,8 @@
+Model Information:
+* title:	[OD]Z-10AG Attack Helicopter 直10A改型武装直升机
+* source:	https://sketchfab.com/3d-models/odz-10ag-attack-helicopter-10a-76eed7f3044b44acab584714af9a824e
+* author:	EXcalibur117 (https://sketchfab.com/EXcalibur117)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
